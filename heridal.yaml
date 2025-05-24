@@ -1,0 +1,9 @@
+path: /home/capybariana/jupyter-labs/HumanDetection/heridal_split
+train: images/train
+val: images/val
+
+train_label_dir: labels/train
+val_label_dir: labels/val
+
+names:
+  0: human
